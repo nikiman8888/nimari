@@ -1,0 +1,43 @@
+.navigation-wrapper {
+    position: fixed;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:space-between ;
+    width:  100%;
+    height: 60px;
+    
+    background: #e6e6e6;
+    transition:  height 2s ease;
+   
+    
+}
+.navigation-wrapper ul {
+    margin-top: 21px;
+    padding: 0px 10px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.navigation-wrapper .left-part-navigation {
+    width:  78%;
+}
+
+.navigation-wrapper .right-part-navigation {
+    width: 18%;
+    position: relative;
+    left: 12px;
+}
+
+.navigation-wrapper a {
+    
+    font-size: 16px;
+    font-weight: lighter;
+    color: black;
+}
+.navigation-wrapper a:hover {
+    
+   opacity: 0.3;
+    
+}
+

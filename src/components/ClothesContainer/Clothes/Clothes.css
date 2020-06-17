@@ -1,0 +1,13 @@
+.clothes-single{
+    width: 25%;
+    margin: 30px 40px;
+    border: 1px solid black;
+    display:flex;
+    flex-flow:column;
+    align-content:space-between ;
+
+}
+.clothes-single img {
+    width: 100%;
+    
+}

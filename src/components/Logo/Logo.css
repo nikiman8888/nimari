@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap");
+
+.logo-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  height: 100px;
+  margin-top: 60px;
+  border-bottom: 1px solid black;
+}
+.logo-wrapper img {
+  width: 80px;
+  height: 80px;
+  margin-left: 17px;
+}
+.logo-wrapper .center-part {
+  margin-top: 25px;
+  font-size: 20px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+.logo-wrapper h1 {
+  opacity: 0;
+  margin: 0;
+  position: relative;
+  left: 30px;
+ 
+}
+.logo-wrapper .first-part-logo {
+  margin-top: -26px;
+  margin-right: 10px;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif, cursive;
+}
+.letter {
+  display:  inline-block;
+    opacity: 0;
+}
+.letter-div {
+  display: inline-block;
+}
