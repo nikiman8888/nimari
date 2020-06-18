@@ -13,7 +13,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
-  "homepage":"https://nikiman8888.github.io/nimarionline",
+  "homepage":"https://nikiman8888.github.io/nimari",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

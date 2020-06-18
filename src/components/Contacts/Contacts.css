@@ -3,7 +3,7 @@
     border: 10px outset #f1ce08;
     
     margin: 41px auto;
-    
+    padding-bottom: 10px;
     width: 70%;
     display:flex;
     flex-flow: column;
