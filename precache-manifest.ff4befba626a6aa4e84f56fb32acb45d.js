@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0e14f0c6685fbda50d0c0e2ff4ae413",
+    "revision": "4b84173331e29e7ba00f75cf2bb1576d",
     "url": "/nimari/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nimari/static/css/2.98eef212.chunk.css"
   },
   {
-    "revision": "dead120edd67214f8f46",
+    "revision": "c0a666761b2353429b08",
     "url": "/nimari/static/css/main.83a4c7c8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nimari/static/js/2.d6ee315f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dead120edd67214f8f46",
-    "url": "/nimari/static/js/main.adad117c.chunk.js"
+    "revision": "c0a666761b2353429b08",
+    "url": "/nimari/static/js/main.6a4d1361.chunk.js"
   },
   {
     "revision": "edaf5b00ff50b525fb64",
