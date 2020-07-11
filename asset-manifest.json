@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nimari/static/css/main.83a4c7c8.chunk.css",
+    "main.js": "/nimari/static/js/main.adad117c.chunk.js",
+    "main.js.map": "/nimari/static/js/main.adad117c.chunk.js.map",
+    "runtime-main.js": "/nimari/static/js/runtime-main.c4fe5215.js",
+    "runtime-main.js.map": "/nimari/static/js/runtime-main.c4fe5215.js.map",
+    "static/css/2.98eef212.chunk.css": "/nimari/static/css/2.98eef212.chunk.css",
+    "static/js/2.d6ee315f.chunk.js": "/nimari/static/js/2.d6ee315f.chunk.js",
+    "static/js/2.d6ee315f.chunk.js.map": "/nimari/static/js/2.d6ee315f.chunk.js.map",
+    "index.html": "/nimari/index.html",
+    "precache-manifest.2ecacc6cba00c057d3c346726c6b5724.js": "/nimari/precache-manifest.2ecacc6cba00c057d3c346726c6b5724.js",
+    "service-worker.js": "/nimari/service-worker.js",
+    "static/css/2.98eef212.chunk.css.map": "/nimari/static/css/2.98eef212.chunk.css.map",
+    "static/css/main.83a4c7c8.chunk.css.map": "/nimari/static/css/main.83a4c7c8.chunk.css.map",
+    "static/js/2.d6ee315f.chunk.js.LICENSE.txt": "/nimari/static/js/2.d6ee315f.chunk.js.LICENSE.txt",
+    "static/media/acc1.png": "/nimari/static/media/acc1.344a129f.png",
+    "static/media/bluza1.png": "/nimari/static/media/bluza1.481b7b22.png",
+    "static/media/flower1.jpg": "/nimari/static/media/flower1.859e6d74.jpg",
+    "static/media/hom2.jpg": "/nimari/static/media/hom2.11c65689.jpg",
+    "static/media/services1.png": "/nimari/static/media/services1.1a80df13.png",
+    "static/media/slider1.jpg": "/nimari/static/media/slider1.74b41902.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4fe5215.js",
+    "static/css/2.98eef212.chunk.css",
+    "static/js/2.d6ee315f.chunk.js",
+    "static/css/main.83a4c7c8.chunk.css",
+    "static/js/main.adad117c.chunk.js"
+  ]
+}
