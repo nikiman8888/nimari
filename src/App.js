@@ -32,7 +32,7 @@ class App extends Component {
 
           <Switch>
             <Route
-              path="/"
+              path="/nimari"
               exact
               render={(props) => <Home {...props} />}
             />

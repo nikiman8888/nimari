@@ -59,7 +59,7 @@ class NavMobile extends Component {
         <DropdownServices closeNav = {this.offClickDrop}/>
         <ul>
           <li>
-            <Link to="/" >
+            <Link to="/nimari" >
               {" "}
               НАЧАЛО
             </Link>
