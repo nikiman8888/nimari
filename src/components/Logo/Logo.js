@@ -34,10 +34,11 @@ class Logo extends Component {
     return (
       <div className="logo-wrapper">
         <div className="left-part">
-          <img src={flower} />
+          <img src={flower} alt = "logo" />
         </div>
         <div className="center-part">
-          <span className="first-part-logo">
+          <div className = "center-part-wrapper">
+          <p className="first-part-logo">
             <span className="letter">Ш</span>
             <span className="letter">и</span>
             <span className="letter">в</span>
@@ -45,20 +46,22 @@ class Logo extends Component {
             <span className="letter">ш</span>
             <span className="letter">к</span>
             <span className="letter">о</span>
-          </span>
-          <span className="first-part-logo">
+          </p>
+          <p className="first-part-logo">
             <span className="letter">а</span>
             <span className="letter">т</span>
             <span className="letter">е</span>
             <span className="letter">л</span>
             <span className="letter">и</span>
             <span className="letter">е</span>
-          </span>
+          </p>
 
           <h1>NIMARI</h1>
+          </div>
+          
         </div>
         <div className="right-part">
-          <img src={shevron} />
+          <img src={shevron} alt = "logo"/>
         </div>
       </div>
     );

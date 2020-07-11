@@ -26,7 +26,7 @@
   .content-img-wrapper .section {
     width: 25%;
   }
-  .content-img-wrapper .section hr {
+  .content-img-wrapper  hr {
     width: 200px;
     background-color: grey;
   }
@@ -42,7 +42,7 @@
     margin: 0;
   }
   .content-img-wrapper ul {
-    margin: 0;
+    margin: auto;
     display: flex;
     flex-flow: column;
   }
@@ -80,6 +80,6 @@
   }
   
 
-div.dropdown-wrapper h1.sewing-services {
+.dropdown-wrapper h1{
     left: 23%;
 }

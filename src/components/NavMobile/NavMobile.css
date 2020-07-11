@@ -1,0 +1,31 @@
+.nav-mobile {
+    position: fixed;
+    z-index: 10;
+    top: 55px;
+    left: 0;
+    background: #e6e6e6;
+    width: 100%;
+}
+.nav-mobile a {
+    color: black;
+}
+.nav-mobile ul {
+    padding: 0;
+    list-style: none;
+    margin: 20px auto;
+    padding: 0;
+    list-style: none;
+    margin: 20px auto;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.nav-mobile ul li {
+    width: 100%;
+    margin:  4px;
+    padding: 9px;
+    text-align: center;
+}
+.nav-mobile ul li:hover {
+    background-color: #fff;
+}

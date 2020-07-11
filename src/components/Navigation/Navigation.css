@@ -1,6 +1,9 @@
 .navigation-wrapper {
+   
     position: fixed;
+    z-index: 999;
     display: flex;
+
     flex-flow: row wrap;
     justify-content:space-between ;
     width:  100%;
@@ -25,8 +28,7 @@
 
 .navigation-wrapper .right-part-navigation {
     width: 18%;
-    position: relative;
-    left: 12px;
+    
 }
 
 .navigation-wrapper a {
@@ -36,8 +38,30 @@
     color: black;
 }
 .navigation-wrapper a:hover {
-    
-   opacity: 0.3;
-    
+    color: lightgray;
+}
+
+.drop-lines-responsive{
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+.drop-lines-responsive:hover {
+    cursor: pointer;
+}
+.drop-lines-responsive span {
+   
+    display: block;
+    background: #fff;
+    height: 4px;
+    margin: 7px;
+    width: 70%;
+    border-radius: 3px;
 }
 

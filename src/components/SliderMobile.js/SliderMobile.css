@@ -1,0 +1,8 @@
+.slider-mobile-wrapper {
+    display: none;
+}
+.swiper-container-horizontal > .swiper-pagination-bullets {
+    position: relative;
+    top:-4px;
+   
+}

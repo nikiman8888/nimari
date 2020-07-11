@@ -1,26 +1,45 @@
 import React, { Component } from "react";
 import "./Contacts.css";
-import foto from "../../images/store1.jpg";
+
 class Contacts extends Component {
-  
   render() {
     return (
-      <div className="contacts-wrapper" onMouseOver = {this.props.closeNav}>
-        <h1>Contacts</h1>
-        <div className="content-contact-img-wrapper">
-          <ul>
-            <li>Sofia</li>
+      <div className="contacts-container">
+        <div className="contacts-wrapper">
+          <div className="content-contact-wrapper">
+            <section className="message-wrapper">
+              <h3>КОНТАКТИ</h3>
+              <p>
+                Уважаеми клиенти, При възникнали въпроси, запитвания,
+                необходимост от справки и други, може да се свържете с нас всеки
+                делничен ден от 09:00ч. до 17:30ч., като ни пишете на e-mail
+                адрес -nimari@yahoo.bg или ни позвъните на телефонни номера +359
+                111 000 000 и +359 100 000 . Благодарим Ви. С уважение, Екипът
+                на Nimari.com
+              </p>
+            </section>
 
-            <li>str. Hollywood</li>
+            <section className="adreess-wrapper">
+              <h3>Адрес</h3>
+              <ul>
+                <li>София</li>
 
-            <li>kv. Studentski grad</li>
+                <li>ул. Студентска 23</li>
 
-            <li>tel:00-00-00-00</li>
+                <li>кв. Студентски град</li>
 
-            <li>Email: supe@muper.com</li>
-          </ul>
-          <div>
-            <img src={foto} alt = "adress"/>
+                <li>Email: supe@muper.com</li>
+              </ul>
+            </section>
+            <section className="contacts-mobile-wrapper">
+              <h3>Телефон</h3>
+              <p> tel:359 00 222 022</p>
+             
+            </section>
+            <section className="contacts-email-wrapper">
+              <h3>Email</h3>
+              <p>nimari@yahoo.com</p>
+            </section>
           </div>
         </div>
       </div>

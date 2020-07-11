@@ -1,5 +1,33 @@
 .footer-wrapper{
-   height:30px;
-    background: #e6e6e6;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    background:#5c5a55;
     border-top: 2px solid #878787;
+}
+.footer-wrapper h3 {
+    margin: 0;margin-bottom: 10px;
+}
+.footer-wrapper p {
+    margin-left:10px;
+}
+.footer-wrapper ul {
+    margin: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+.footer-wrapper a {
+    font-size: 12px;
+    color: #fff;
+    
+}
+.footer-link-wrapper {
+    width: 100%;
+}
+.footer-wrapper a:hover {
+    text-decoration: underline;
 }

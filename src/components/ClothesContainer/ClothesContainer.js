@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./ClothesContainer.css";
 import Clothes from "./Clothes/Clothes";
 import clothNames from "../../utils/clothesHolder.js";
+
 class ClothesContainer extends Component {
   state = {
     items:''
