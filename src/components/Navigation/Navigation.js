@@ -113,7 +113,7 @@ class Navigation extends Component {
         <div className="left-part-navigation">
           <ul className="left-ul">
             <li>
-              <Link to="/nimari" className="home-link" onClick={this.offClick}>
+              <Link to="/" className="home-link" onClick={this.offClick}>
                 НАЧАЛО
               </Link>
             </li>

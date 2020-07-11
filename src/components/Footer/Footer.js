@@ -8,7 +8,7 @@ function Footer (){
             <p>Copyright © 2020 Nimari.com / Design by NZ Soft</p>
             
             <ul>
-              <li><Link to= '/nimari'>НАЧАЛО</Link></li>
+              <li><Link to= '/'>НАЧАЛО</Link></li>
               <li><Link to = '/clothes'>ДРЕХИ</Link></li>
               <li><Link to = 'accesories'>АКСЕСОАРИ</Link></li>
               <li><a href = 'https://www.google.com'>КИНКАЛЕРИЯ</a></li>

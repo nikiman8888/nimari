@@ -8,6 +8,7 @@
 }
 .nav-mobile a {
     color: black;
+    display: block;
 }
 .nav-mobile ul {
     padding: 0;

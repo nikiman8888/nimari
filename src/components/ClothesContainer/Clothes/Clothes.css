@@ -1,5 +1,6 @@
 .clothes-single{
     width: 25%;
+    min-height: 216px;
     margin: 30px 40px;
     border: 1px solid black;
     display:flex;
